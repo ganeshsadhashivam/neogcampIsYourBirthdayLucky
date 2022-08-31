@@ -1,0 +1,40 @@
+
+body{
+    background-color: #bae6fd;
+}
+.container{
+    text-align: center;
+}
+#header{
+  
+}
+label{
+    display: block;
+    margin: 1rem;
+    padding:0  1rem
+}
+
+input{
+    
+}
+button{
+   border-radius: 1.4rem;
+    margin:1rem 45rem;
+    padding:0.5rem 1rem;
+
+
+
+}
+
+button:hover{
+    background-color: black;
+    color: #bae6fd;
+}
+#textarea{
+    width: 400px;
+    height: 104px;
+}
+footer{
+    text-align: center;
+}
+
