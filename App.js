@@ -39,7 +39,7 @@ function clickEvent(){
     }
     else{
 
-        textArea.innerHTML = "☹️😌😔your birthday is NOT lucky, so sad";
+        textArea.innerHTML = LuckNum.value + " is NOT lucky, so sad ☹️😌😔";
     }
 }
 else{
